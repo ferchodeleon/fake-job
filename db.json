@@ -1,24 +1,8 @@
 {
     "jid": "70f2fc90cce2cc7bf8348e59f11b865d",
     "name": "DirectoryProcessor",
-    "isStoppable": false,
     "state": "RUNNING",
     "start-time": 1629834446769,
     "end-time": -1,
-    "duration": 2154955,
-    "maxParallelism": -1,
-    "now": 1629836601724,
-    "timestamps": {
-        "RUNNING": 1629834446782,
-        "SUSPENDED": 0,
-        "RESTARTING": 0,
-        "INITIALIZING": 1629834446769,
-        "FAILING": 0,
-        "CANCELLING": 0,
-        "CREATED": 1629834446774,
-        "FINISHED": 0,
-        "FAILED": 0,
-        "CANCELED": 0,
-        "RECONCILING": 0
-    }
+    "duration": 2154955
 }
